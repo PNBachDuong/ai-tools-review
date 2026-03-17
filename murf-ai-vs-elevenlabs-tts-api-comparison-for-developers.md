@@ -142,7 +142,7 @@ That way, running A/B infrastructure tests between Murf and ElevenLabs is a conf
 | **Cost predictability for MVP** | Strong when using baseline PAYG assumptions | Can drift if model choice changes without guardrails | Add per-model budget thresholds whichever provider you pick |
 | **Best-fit default workload** | Fast launch of multilingual app features with predictable baseline costs | Quality-tuning, model experimentation, and broader voice stack decisions | Murf is a strong default for speed-to-ship; ElevenLabs is strong for optimization-heavy teams |
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi
+- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-review
 
 ## 5) Performance benchmarks by real-world scenario
 
@@ -198,7 +198,7 @@ Likely fit:
 
 - Both offer relevant formats; Murf’s documented format list makes it straightforward to design telephony outputs without much transcoding logic.
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi
+- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-review
 
 ## 6) API design and integration friction
 
@@ -328,7 +328,7 @@ Then choose on measured business outcome, not brand familiarity.
 
 If your roadmap is “ship fast, iterate safely, and keep costs predictable,” start with ElevenLabs free tier and benchmark from a working baseline.
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi
+- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-review
 - Recommended first milestone: ship one production endpoint with:
   - one default voice per locale
   - one fallback voice
