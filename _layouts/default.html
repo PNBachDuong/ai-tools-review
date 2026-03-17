@@ -6,6 +6,11 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description | escape }}" />
   <meta name="google-site-verification" content="4rJnPnmaEMUoRZbEtR9JvTYfTQ3-0VShpXisItcjCAg" />
+  {% if page.faq_jsonld %}
+  <script type="application/ld+json">
+{{ page.faq_jsonld }}
+  </script>
+  {% endif %}
   <style>
     :root {
       --bg: #f7f8fa;

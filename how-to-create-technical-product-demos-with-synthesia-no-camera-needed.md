@@ -2,6 +2,45 @@
 layout: default
 title: How to create technical product demos with Synthesia - no camera needed
 permalink: /how-to-create-technical-product-demos-with-synthesia-no-camera-needed.html
+faq_jsonld: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can I create a technical demo with Synthesia without recording myself?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Synthesia supports script-driven video creation, allowing you to produce technical demos without camera recording."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should indie founders automate demos with API from day one?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most teams should validate format manually first, then automate with API after the workflow and template structure are stable."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the ideal length for developer-focused demos?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "For most technical features, 2 to 4 minutes is a strong range if you keep one objective and show concrete results."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I make technical demos more credible?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use real evidence in the video, such as output logs, API responses, and measurable before-after results."
+        }
+      }
+    ]
+  }
 ---
 
 > **FTC disclosure:** Bài viết có chứa affiliate link ElevenLabs.
@@ -340,47 +379,6 @@ Show real output: logs, payloads, or end-state results. Viewers trust proof more
 ### Q5: Where should the CTA point in a technical demo?
 Use one destination based on intent: docs for evaluation, free trial for activation, or template clone for immediate implementation.
 
-### FAQ JSON-LD
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I create a technical demo with Synthesia without recording myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Synthesia supports script-driven video creation, allowing you to produce technical demos without camera recording."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should indie founders automate demos with API from day one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most teams should validate format manually first, then automate with API after the workflow and template structure are stable."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the ideal length for developer-focused demos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most technical features, 2 to 4 minutes is a strong range if you keep one objective and show concrete results."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I make technical demos more credible?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use real evidence in the video, such as output logs, API responses, and measurable before-after results."
-      }
-    }
-  ]
-}
-```
 
 
