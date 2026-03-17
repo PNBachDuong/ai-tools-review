@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Danh sach bai viet
+permalink: /articles.html
 ---
 
 # Danh sach bai viet

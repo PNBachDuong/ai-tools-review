@@ -1,4 +1,8 @@
-# How to create technical product demos with Synthesia — no camera needed
+---
+layout: default
+title: How to create technical product demos with Synthesia - no camera needed
+permalink: /how-to-create-technical-product-demos-with-synthesia-no-camera-needed.html
+---
 
 > **FTC disclosure:** Bài viết có chứa affiliate link ElevenLabs.
 
@@ -378,13 +382,5 @@ Use one destination based on intent: docs for evaluation, free trial for activat
   ]
 }
 ```
-
----
-
-**References**
-
-- Synthesia API reference overview: https://docs.synthesia.io/reference/create-video  
-- Synthesia template video generation guide: https://docs.synthesia.io/reference/guide-create-a-video-from-template  
-- Synthesia create video from template endpoint: https://docs.synthesia.io/reference/create-a-video-from-a-template  
 
 

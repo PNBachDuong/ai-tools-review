@@ -1,4 +1,8 @@
-# Murf AI honest review after 30 days: is it worth it for developers?
+---
+layout: default
+title: Murf AI honest review after 30 days: is it worth it for developers?
+permalink: /murf-ai-honest-review-after-30-days-is-it-worth-it-for-developers.html
+---
 
 > **FTC disclosure:** Bài viết có chứa affiliate link ElevenLabs.
 
@@ -396,8 +400,3 @@ Start with one provider behind a clean adapter. Add a second provider only when 
   ]
 }
 ```
-
-## Sources used
-
-- Murf API docs (overview, streaming, plans/limits, Falcon model page) as referenced in the prior verified comparison workflow.
-- ElevenLabs SDK and API references via chub retrieval (`elevenlabs/text-to-speech`, JavaScript + Python variants, updated 2026-03-02).
