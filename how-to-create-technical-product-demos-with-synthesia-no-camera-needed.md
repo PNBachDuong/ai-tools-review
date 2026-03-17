@@ -145,7 +145,9 @@ This is where a separate voice workflow can help:
 
 If you want to test voice tone quickly:
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-review
+- **Try ElevenLabs free for your Synthesia narration:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-review
+
+ElevenLabs can serve as a lightweight voiceover option when you need additional pacing control before syncing with the Synthesia scene flow.
 
 Use it as a rapid scripting/narration companion, then bring your final script direction into the Synthesia production pass.
 
@@ -313,11 +315,7 @@ Synthesia is a practical no-camera path for technical product demos because it e
 
 For indie devs and technical founders, this is less about “AI video novelty” and more about shipping education assets consistently without burning engineering focus.
 
-If you want to speed up script and voice experimentation in your workflow:
-
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-review
-
-Then keep one rule: every demo should drive one user action, not ten.
+If you want to speed up script and voice experimentation in your workflow, keep one rule: every demo should drive one user action, not ten.
 
 ---
 
