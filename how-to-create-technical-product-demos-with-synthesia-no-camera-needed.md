@@ -145,7 +145,7 @@ This is where a separate voice workflow can help:
 
 If you want to test voice tone quickly:
 
-- **Try ElevenLabs free for your Synthesia narration:** https://try.elevenlabs.io/64xtbcqe19bi
+- **Try ElevenLabs free for your Synthesia narration:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=synthesia-demo-guide&utm_content=section5-cta
 
 ElevenLabs can serve as a lightweight voiceover option when you need additional pacing control before syncing with the Synthesia scene flow.
 
@@ -386,4 +386,5 @@ Use one destination based on intent: docs for evaluation, free trial for activat
 - Synthesia API reference overview: https://docs.synthesia.io/reference/create-video  
 - Synthesia template video generation guide: https://docs.synthesia.io/reference/guide-create-a-video-from-template  
 - Synthesia create video from template endpoint: https://docs.synthesia.io/reference/create-a-video-from-a-template  
+
 
