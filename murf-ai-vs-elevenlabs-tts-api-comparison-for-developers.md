@@ -142,7 +142,7 @@ That way, running A/B infrastructure tests between Murf and ElevenLabs is a conf
 | **Cost predictability for MVP** | Strong when using baseline PAYG assumptions | Can drift if model choice changes without guardrails | Add per-model budget thresholds whichever provider you pick |
 | **Best-fit default workload** | Fast launch of multilingual app features with predictable baseline costs | Quality-tuning, model experimentation, and broader voice stack decisions | Murf is a strong default for speed-to-ship; ElevenLabs is strong for optimization-heavy teams |
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-api-comparison&utm_content=cta
+- **Try ElevenLabs free:** [Try ElevenLabs free →](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-api-comparison&utm_content=cta)
 
 ## 5) Performance benchmarks by real-world scenario
 
@@ -198,7 +198,7 @@ Likely fit:
 
 - Both offer relevant formats; Murf’s documented format list makes it straightforward to design telephony outputs without much transcoding logic.
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-api-comparison&utm_content=cta
+- **Try ElevenLabs free:** [Try ElevenLabs free →](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-api-comparison&utm_content=cta)
 
 ## 6) API design and integration friction
 
@@ -322,19 +322,7 @@ Use a two-week technical bake-off:
 
 Then choose on measured business outcome, not brand familiarity.
 
-- **Start with ElevenLabs free tier:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-api-comparison&utm_content=cta
-
-## 9) ElevenLabs primary CTA (for this article)
-
-If your roadmap is “ship fast, iterate safely, and keep costs predictable,” start with ElevenLabs free tier and benchmark from a working baseline.
-
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-api-comparison&utm_content=cta
-- Recommended first milestone: ship one production endpoint with:
-  - one default voice per locale
-  - one fallback voice
-  - logging for character usage and request latency
-
-After week 1 in production, compare your observed metrics against your original assumptions and decide whether to stay single-provider or add ElevenLabs as an optional path.
+- **Start with ElevenLabs free tier:** [Try ElevenLabs free →](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-api-comparison&utm_content=cta)
 
 ## 10) FAQ (schema-ready)
 
@@ -413,6 +401,7 @@ Not alone. Coverage count is useful, but quality consistency, voice suitability 
 - ElevenLabs API Reference: https://elevenlabs.io/docs/api-reference  
 - ElevenLabs TTS capabilities: https://elevenlabs.io/docs/overview/capabilities/text-to-speech  
 - ElevenLabs API pricing: https://elevenlabs.io/pricing/api
+
 
 
 
