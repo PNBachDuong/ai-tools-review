@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to create technical product demos with Synthesia - no camera needed
+title: "How to create technical product demos with Synthesia - no camera needed"
 permalink: /how-to-create-technical-product-demos-with-synthesia-no-camera-needed.html
 faq_jsonld: |
   {

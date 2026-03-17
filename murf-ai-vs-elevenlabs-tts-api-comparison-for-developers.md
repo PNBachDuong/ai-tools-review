@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Murf AI vs ElevenLabs: TTS API comparison for developers
+title: "Murf AI vs ElevenLabs: TTS API comparison for developers"
 permalink: /murf-ai-vs-elevenlabs-tts-api-comparison-for-developers.html
 faq_jsonld: |
   {

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Murf AI honest review after 30 days: is it worth it for developers?
+title: "Murf AI honest review after 30 days: is it worth it for developers?"
 permalink: /murf-ai-honest-review-after-30-days-is-it-worth-it-for-developers.html
 faq_jsonld: |
   {
