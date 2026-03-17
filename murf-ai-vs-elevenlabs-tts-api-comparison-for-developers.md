@@ -322,7 +322,7 @@ Use a two-week technical bake-off:
 
 Then choose on measured business outcome, not brand familiarity.
 
-- **Start with ElevenLabs free tier:** https://try.elevenlabs.io/64xtbcqe19bi
+- **Start with ElevenLabs free tier:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=elevenlabs-review
 
 ## 9) ElevenLabs primary CTA (for this article)
 
@@ -413,3 +413,5 @@ Not alone. Coverage count is useful, but quality consistency, voice suitability 
 - ElevenLabs API Reference: https://elevenlabs.io/docs/api-reference  
 - ElevenLabs TTS capabilities: https://elevenlabs.io/docs/overview/capabilities/text-to-speech  
 - ElevenLabs API pricing: https://elevenlabs.io/pricing/api
+
+
