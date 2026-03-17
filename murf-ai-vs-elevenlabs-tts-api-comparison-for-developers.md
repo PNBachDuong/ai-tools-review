@@ -1,6 +1,6 @@
 # Murf AI vs ElevenLabs: TTS API comparison for developers
 
-> **FTC disclosure:** This article will include Murf affiliate links after enrollment. If you purchase through those links, I may earn a commission at no additional cost to you.
+> **FTC disclosure:** Bài viết có chứa affiliate link ElevenLabs.
 
 If you are building voice-enabled products in 2026, this is no longer a simple “which voice sounds better” decision. For developers, the real question is how a TTS provider behaves under production constraints: latency spikes, cost predictability, language coverage, output compatibility, and integration friction across SDKs and runtimes.
 
@@ -142,6 +142,8 @@ That way, running A/B infrastructure tests between Murf and ElevenLabs is a conf
 | **Cost predictability for MVP** | Strong when using baseline PAYG assumptions | Can drift if model choice changes without guardrails | Add per-model budget thresholds whichever provider you pick |
 | **Best-fit default workload** | Fast launch of multilingual app features with predictable baseline costs | Quality-tuning, model experimentation, and broader voice stack decisions | Murf is a strong default for speed-to-ship; ElevenLabs is strong for optimization-heavy teams |
 
+- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi
+
 ## 5) Performance benchmarks by real-world scenario
 
 Rather than publishing one synthetic score, this section maps outcomes to actual product patterns.
@@ -195,6 +197,8 @@ You care about:
 Likely fit:
 
 - Both offer relevant formats; Murf’s documented format list makes it straightforward to design telephony outputs without much transcoding logic.
+
+- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi
 
 ## 6) API design and integration friction
 
@@ -318,11 +322,13 @@ Use a two-week technical bake-off:
 
 Then choose on measured business outcome, not brand familiarity.
 
-## 9) Murf free trial CTA (for this article)
+- **Start with ElevenLabs free tier:** https://try.elevenlabs.io/64xtbcqe19bi
 
-If your roadmap is “ship fast, iterate safely, and keep costs predictable,” start with Murf and benchmark from a working baseline.
+## 9) ElevenLabs primary CTA (for this article)
 
-- **Try Murf free trial:** [TBD_MURF_AFFILIATE_LINK]
+If your roadmap is “ship fast, iterate safely, and keep costs predictable,” start with ElevenLabs free tier and benchmark from a working baseline.
+
+- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi
 - Recommended first milestone: ship one production endpoint with:
   - one default voice per locale
   - one fallback voice
