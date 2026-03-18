@@ -78,7 +78,7 @@ Short version:
 
 If you want to test the alternative before committing budget, use the free tier path first:
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=murf-review&utm_content=verdict-cta
+- [Try ElevenLabs free ->](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=murf-review&utm_content=verdict-cta)
 
 ## 2) Outline (what this review covers)
 
@@ -235,7 +235,7 @@ The table below reuses the verified structure/data used in earlier comparison wo
 
 If you want to compare both quickly before paying for annual commitments:
 
-- **Try ElevenLabs free:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=murf-review&utm_content=verdict-cta
+- [Try ElevenLabs free ->](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=murf-review&utm_content=verdict-cta)
 
 ## 7) Pricing breakdown for developer use cases
 
@@ -375,7 +375,7 @@ If your roadmap depends on deep voice-model experimentation, highly dynamic qual
 
 For a low-risk alternative test path before final commitment:
 
-- **Start with ElevenLabs free tier:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=murf-review&utm_content=verdict-cta
+- [Start with ElevenLabs free tier ->](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=murf-review&utm_content=verdict-cta)
 
 Bottom line: Murf is a practical engineering buy for many developer teams. It is not a universal winner, but it is often the fastest route to stable production value.
 

@@ -192,7 +192,7 @@ This is where a separate voice workflow can help:
 
 If you want to test voice tone quickly:
 
-- **Try ElevenLabs free for your Synthesia narration:** https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=synthesia-demo-guide&utm_content=section5-cta
+- [Try ElevenLabs free for your Synthesia narration ->](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=synthesia-demo-guide&utm_content=section5-cta)
 
 ElevenLabs can serve as a lightweight voiceover option when you need additional pacing control before syncing with the Synthesia scene flow.
 
