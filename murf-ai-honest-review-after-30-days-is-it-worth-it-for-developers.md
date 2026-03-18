@@ -2,6 +2,10 @@
 layout: default
 title: "Murf AI honest review after 30 days: is it worth it for developers?"
 permalink: /murf-ai-honest-review-after-30-days-is-it-worth-it-for-developers.html
+description: "Is Murf worth it for developers? Real API testing, pros and cons."
+article_card: true
+article_order: 5
+card_title: "Murf AI Honest Review After 30 Days"
 faq_jsonld: |
   {
     "@context": "https://schema.org",

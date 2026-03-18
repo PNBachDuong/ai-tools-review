@@ -2,6 +2,10 @@
 layout: default
 title: "Murf AI vs ElevenLabs: TTS API comparison for developers"
 permalink: /murf-ai-vs-elevenlabs-tts-api-comparison-for-developers.html
+description: "Latency, pricing, and SDK comparison for building voice apps."
+article_card: true
+article_order: 3
+card_title: "Murf AI vs ElevenLabs: TTS API Comparison for Developers"
 faq_jsonld: |
   {
     "@context": "https://schema.org",

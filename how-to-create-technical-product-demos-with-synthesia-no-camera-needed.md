@@ -2,6 +2,10 @@
 layout: default
 title: "How to create technical product demos with Synthesia - no camera needed"
 permalink: /how-to-create-technical-product-demos-with-synthesia-no-camera-needed.html
+description: "Ship polished product demos without a camera or studio."
+article_card: true
+article_order: 4
+card_title: "How to Create Technical Product Demos with Synthesia"
 faq_jsonld: |
   {
     "@context": "https://schema.org",

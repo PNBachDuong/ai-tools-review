@@ -3,6 +3,9 @@ layout: default
 title: "Best AI voiceover tools for developers in 2026"
 description: "Developer-first list of AI voiceover tools for 2026, comparing API quality, pricing, latency, and integration tradeoffs."
 permalink: /best-ai-voiceover-tools-for-developers-in-2026.html
+article_card: true
+article_order: 1
+card_title: "Best AI Voiceover Tools for Developers in 2026"
 faq_jsonld: |
   {
     "@context": "https://schema.org",

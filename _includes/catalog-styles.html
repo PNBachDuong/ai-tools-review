@@ -1,0 +1,73 @@
+<style>
+  :root {
+    --bg: #f7f8fa;
+    --card: #ffffff;
+    --text: #1f2937;
+    --muted: #4b5563;
+    --line: #e5e7eb;
+    --link: #0f766e;
+    --link-hover: #115e59;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px 56px;
+  }
+
+  h1 {
+    margin: 0 0 8px;
+    font-size: 2rem;
+  }
+
+  .tagline {
+    margin: 0 0 28px;
+    color: var(--muted);
+    font-size: 1.05rem;
+  }
+
+  .cards {
+    display: grid;
+    gap: 14px;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px 18px;
+  }
+
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 1.12rem;
+    line-height: 1.35;
+  }
+
+  .card p {
+    margin: 0 0 10px;
+    color: var(--muted);
+    font-size: 0.97rem;
+  }
+
+  a {
+    color: var(--link);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  a:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+  }
+</style>

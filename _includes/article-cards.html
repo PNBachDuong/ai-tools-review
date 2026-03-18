@@ -1,0 +1,10 @@
+{% assign article_pages = site.pages | where: "article_card", true | sort: "article_order" %}
+<section class="cards" aria-label="{{ include.aria_label | default: 'Article List' }}">
+  {% for article in article_pages %}
+  <article class="card">
+    <h2>{{ article.card_title | default: article.title }}</h2>
+    <p>{{ article.description }}</p>
+    <a href="{{ article.permalink | relative_url }}">Read article</a>
+  </article>
+  {% endfor %}
+</section>

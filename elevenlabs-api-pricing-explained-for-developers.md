@@ -3,6 +3,9 @@ layout: default
 title: "ElevenLabs API pricing explained for developers"
 description: "Developer-first guide to ElevenLabs API pricing, credits, model tiers, and upgrade thresholds before you integrate."
 permalink: /elevenlabs-api-pricing-explained-for-developers.html
+article_card: true
+article_order: 2
+card_title: "ElevenLabs API Pricing Explained for Developers"
 faq_jsonld: |
   {
     "@context": "https://schema.org",
