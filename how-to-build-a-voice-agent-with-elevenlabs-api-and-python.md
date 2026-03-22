@@ -65,6 +65,8 @@ If you searched `build voice agent elevenlabs python`, you likely want a tutoria
 
 The build is intentionally simple but production-minded. We keep clear boundaries between STT, response generation, and TTS so you can swap components later without rewriting the entire project.
 
+If you are still deciding whether the platform is worth paying for after the prototype stage, [the full developer review goes deeper into quality, DX, and where ElevenLabs fits better than nearby alternatives](/ai-tools-review/elevenlabs-review-for-developers-api-pricing-latency-and-real-world-fit.html).
+
 What you will have at the end:
 
 1. A runnable CLI voice agent loop in Python
@@ -272,6 +274,8 @@ python tts_engine.py
 ```
 
 If `output_reply.mp3` is created, your TTS integration is valid. Do this before adding STT and agent logic so failures stay isolated.
+
+Once that smoke test works, [this production-oriented pricing breakdown helps you estimate what happens when the tutorial starts turning into real monthly usage](/ai-tools-review/elevenlabs-api-pricing-explained-for-developers.html).
 
 - [Try ElevenLabs free ->](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=voice-agent-tutorial&utm_content=tutorial-cta)
 
@@ -611,6 +615,8 @@ Once local testing is stable, move from prototype to a service that survives rea
 - Add analytics for conversion and retention events if this is customer-facing
 
 A practical shipping strategy is: local monolith -> single API service -> modular services only when traffic demands it. That path keeps complexity proportional to real usage.
+
+If you think your roadmap is likely to become streaming-first rather than file-generation first, [the comparison with PlayHT shows where that alternative starts to make more architectural sense](/ai-tools-review/elevenlabs-vs-playht-for-developers-which-tts-api-should-you-pick.html).
 
 - [Try ElevenLabs free ->](https://try.elevenlabs.io/64xtbcqe19bi?utm_source=blog&utm_medium=article&utm_campaign=voice-agent-tutorial&utm_content=tutorial-cta)
 
